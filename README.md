@@ -1,1 +1,1 @@
-# vanilla-ja-mini-projs
+# vanilla-js-mini-projs
